@@ -3,3 +3,4 @@
 
 
 rm /tmp/betty /tmp/my_first_directory/betty
+rmdir /tmp/my_first_directory
