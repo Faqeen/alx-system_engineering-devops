@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 0-hello_world
 Hello,
 README.md
+=======
+#!/bin/bash
+echo "Hello, world"
+>>>>>>> 4d708260f67f9997f88014176a67f1e6da71fec7
