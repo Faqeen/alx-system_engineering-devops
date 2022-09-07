@@ -1,1 +1,2 @@
-shell redirections
+shell variables and expansion
+
